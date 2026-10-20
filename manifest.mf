@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: uk.ac.open.OpenNSFW
+OpenIDE-Module-Localizing-Bundle: uk/ac/open/OpenNSFW/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.4.1
+
